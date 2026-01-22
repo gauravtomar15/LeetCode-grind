@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
