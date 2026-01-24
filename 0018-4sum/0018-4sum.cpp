@@ -7,7 +7,7 @@ public:
          sort(nums.begin() , nums.end());
 
          for(int i = 0; i<n; i++){
-            if(i>0 && nums[i]==nums[i-1])  continue;
+            if(i>0 && nums[i]==nums[i-1])  continue; // agar hum ith index ka elementsame milta ha to hum usko skip kr denge or i++ ho jayega 
             for(int j=i+1; j<n;){
                 
                 int p = j+1 , q = n-1;
@@ -21,11 +21,11 @@ public:
                         ans.push_back({nums[i],nums[j],nums[p],nums[q]});
                         p++;
                         q--;  
-                        while(p<q && nums[p]==nums[p-1]) p++;
+                        while(p<q && nums[p]==nums[p-1]) p++; // same as work i and j
                     }
                 }
                 j++;
-                while(j<n && nums[j]==nums[j-1]) j++;
+                while(j<n && nums[j]==nums[j-1]) j++; // yha  bhi same j ke liye ha jab bhi same element milega usko aage bada denge
             }
          }
          return ans;
