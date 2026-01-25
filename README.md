@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0018-4sum) |
 | [0074-search-a-2d-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
