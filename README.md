@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
@@ -18,6 +19,7 @@
 | [0015-3sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0160-intersection-of-two-linked-lists) |
