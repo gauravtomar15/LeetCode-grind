@@ -12,6 +12,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0485-max-consecutive-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
