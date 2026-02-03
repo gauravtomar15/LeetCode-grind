@@ -13,7 +13,6 @@ public:
             dict[s[i]]=i;
              maxLen = max(maxLen , i-start);
         }
-      
 
         return maxLen;
     }
