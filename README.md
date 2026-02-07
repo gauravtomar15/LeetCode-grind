@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0090-subsets-ii) |
@@ -143,5 +144,6 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
