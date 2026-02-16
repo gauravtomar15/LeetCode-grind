@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -41,6 +42,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -87,6 +89,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0190-reverse-bits) |
 ## Sorting
