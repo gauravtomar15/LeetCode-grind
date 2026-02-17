@@ -52,6 +52,7 @@
 | [0090-subsets-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0401-binary-watch) |
 ## Matrix
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0051-n-queens](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0401-binary-watch) |
 ## Breadth-First Search
 |  |
 | ------- |
