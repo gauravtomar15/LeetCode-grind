@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0040-combination-sum-ii) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0540-single-element-in-a-sorted-array) |
