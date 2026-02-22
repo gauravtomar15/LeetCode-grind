@@ -1,40 +1,39 @@
 class Solution {
-    void twoSum(vector<int>& nums , int target , int i , int j){
-     
-       while(i<j){
-        if(nums[i] + nums[j]>target){ 
-            j--;
-        } else if(nums[i] + nums[j]<target) {
-            i++;
-        }else{
-            while(i<j && nums[i] == nums[i+1]) i++;
-            while(i<j && nums[j] == nums[j-1]) j--;
-            result.push_back({-target, nums[i],nums[j]});
-            i++;
-            j--;
-        }
-       }
-    }
 public:
-    vector<vector<int>> result;
     vector<vector<int>> threeSum(vector<int>& nums) {
+
+        vector<vector<int>> result;
         int n = nums.size();
-        if(n<3){
-            return {};
-        }
-        //sort kr lenge
-        sort(begin(nums), end(nums));
+        sort(nums.begin() , nums.end());
 
-        for(int i =0; i<n ; i++){
+        for (int i = 0; i < n - 2; i++) {
+            
+            int s = -1 * nums[i];
+            int left = i + 1;
+            int right = n - 1;
+            if (i > 0 && nums[i] == nums[i - 1])
+                    continue;
 
-            if(i>0 && nums[i]==nums[i-1]) {
-                continue;
+            while (left < right) {
+                
+                int sum = nums[left] + nums[right];
+                if (sum == s) {
+                    result.push_back({nums[i], nums[left], nums[right]});
+
+                    left++;
+                    right--;
+                    while (left < n && nums[left] == nums[left - 1]) {
+                        left++;
+                    }
+                    while (right >= 0 && nums[right] == nums[right + 1]) {
+                        right--;
+                    }
+                } else if (s<sum) {
+                    right--;
+                } else {
+                    left++;
+                }
             }
-
-            int n1 = nums[i];
-            int target = -n1;
-
-            twoSum(nums , target , i+1 , n-1);
         }
         return result;
     }
