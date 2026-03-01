@@ -44,6 +44,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0455-assign-cookies) |
@@ -81,6 +82,7 @@
 | [0050-powx-n](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0445-add-two-numbers-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
@@ -103,6 +105,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
