@@ -20,6 +20,7 @@
 | [0074-search-a-2d-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0287-find-the-duplicate-number) |
@@ -132,6 +133,7 @@
 | [0042-trapping-rain-water](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0322-coin-change) |
 ## Combinatorics
 |  |
