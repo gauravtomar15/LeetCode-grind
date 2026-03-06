@@ -28,6 +28,7 @@
 | [0455-assign-cookies](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0540-single-element-in-a-sorted-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -117,6 +118,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0190-reverse-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0131-palindrome-partitioning](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0322-coin-change) |
+| [0918-maximum-sum-circular-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Combinatorics
@@ -214,4 +217,12 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1004-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
