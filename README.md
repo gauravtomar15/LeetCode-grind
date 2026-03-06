@@ -28,6 +28,7 @@
 | [0455-assign-cookies](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1004-max-consecutive-ones-iii) |
@@ -216,6 +217,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
