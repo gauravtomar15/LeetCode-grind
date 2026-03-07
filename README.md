@@ -28,6 +28,7 @@
 | [0455-assign-cookies](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0977-squares-of-a-sorted-array) |
@@ -112,6 +113,7 @@
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -217,6 +219,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
