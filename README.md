@@ -172,6 +172,7 @@
 | [0344-reverse-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0696-count-binary-substrings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [0042-trapping-rain-water](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0445-add-two-numbers-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
