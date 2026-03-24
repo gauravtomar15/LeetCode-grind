@@ -121,6 +121,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0560-subarray-sum-equals-k) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [0067-add-binary](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0696-count-binary-substrings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -248,6 +251,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
