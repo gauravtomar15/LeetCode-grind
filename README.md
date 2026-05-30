@@ -31,6 +31,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0322-coin-change) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0503-next-greater-element-ii) |
@@ -86,6 +87,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -107,6 +109,7 @@
 | [0037-sudoku-solver](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -164,6 +167,7 @@
 | [0056-merge-intervals](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
@@ -297,6 +301,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
 ## Quickselect
