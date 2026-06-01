@@ -184,6 +184,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0131-palindrome-partitioning) |
@@ -206,6 +207,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0344-reverse-string) |
@@ -263,6 +265,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0040-combination-sum-ii) |
