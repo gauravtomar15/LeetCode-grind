@@ -277,6 +277,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0322-coin-change) |
 ## Simulation
 |  |
@@ -326,4 +327,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
