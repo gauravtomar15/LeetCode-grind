@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0015-3sum) |
@@ -54,8 +54,8 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -77,8 +77,8 @@
 | [0977-squares-of-a-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0986-interval-list-intersections) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -95,8 +95,8 @@
 | [1004-max-consecutive-ones-iii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0190-reverse-bits) |
@@ -104,16 +104,16 @@
 | [0401-binary-watch](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0693-binary-number-with-alternating-bits) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0050-powx-n](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0067-add-binary) |
@@ -122,8 +122,8 @@
 | [0509-fibonacci-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0050-powx-n) |
@@ -131,8 +131,8 @@
 | [0234-palindrome-linked-list](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0509-fibonacci-number) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0037-sudoku-solver) |
@@ -153,8 +153,8 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0190-reverse-bits) |
@@ -162,8 +162,8 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0056-merge-intervals) |
@@ -175,15 +175,15 @@
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0062-unique-paths) |
@@ -195,16 +195,16 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0062-unique-paths) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0022-generate-parentheses) |
@@ -219,14 +219,14 @@
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0025-reverse-nodes-in-k-group) |
@@ -241,8 +241,8 @@
 | [0445-add-two-numbers-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0234-palindrome-linked-list) |
@@ -251,20 +251,20 @@
 | [0739-daily-temperatures](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0739-daily-temperatures) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0409-longest-palindrome](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0039-combination-sum) |
@@ -275,76 +275,76 @@
 | [0131-palindrome-partitioning](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0401-binary-watch) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0322-coin-change) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0067-add-binary) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0525-contiguous-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sweep Line
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0986-interval-list-intersections) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0215-kth-largest-element-in-an-array) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0692-top-k-frequent-words) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0509-fibonacci-number) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
