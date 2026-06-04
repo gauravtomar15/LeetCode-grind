@@ -22,6 +22,7 @@
 | [0057-insert-interval](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -136,6 +137,7 @@
 | [0001-two-sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0141-linked-list-cycle) |
@@ -156,6 +158,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0215-kth-largest-element-in-an-array) |
@@ -335,6 +338,7 @@
 | [0098-validate-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -352,6 +356,7 @@
 | [0098-validate-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0958-check-completeness-of-a-binary-tree) |
