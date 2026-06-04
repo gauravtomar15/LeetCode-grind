@@ -332,6 +332,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
@@ -339,14 +340,20 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
