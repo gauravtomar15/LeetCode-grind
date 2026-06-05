@@ -15,8 +15,10 @@ public:
     unordered_map<int, int> mp;
     int idx = 0;
     TreeNode* func(vector<int>& preorder, int low, int high) {
-        if (low > high)
+        if (low > high) {
             return NULL;
+        }
+        
         TreeNode* node = new TreeNode(preorder[idx]);
         idx++;
         int id = mp[node->val];
@@ -28,7 +30,6 @@ public:
         for (int i = 0; i < inorder.size(); i++) {
             mp[inorder[i]] = i;
         }
-
         return func(preorder, 0, inorder.size() - 1);
     }
 };
