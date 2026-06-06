@@ -54,6 +54,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gauravtomar15/LeetCode-grind/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/gauravtomar15/LeetCode-grind/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -297,6 +298,7 @@
 | [0724-find-pivot-index](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1004-max-consecutive-ones-iii) |
+| [2574-left-and-right-sum-differences](https://github.com/gauravtomar15/LeetCode-grind/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
