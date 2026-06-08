@@ -50,6 +50,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -115,6 +116,7 @@
 | [0200-number-of-islands](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0994-rotting-oranges/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 | Problem Name | Difficulty |
@@ -291,6 +293,7 @@
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0322-coin-change) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0994-rotting-oranges/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
