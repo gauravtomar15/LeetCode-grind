@@ -256,6 +256,7 @@
 | [0020-valid-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0503-next-greater-element-ii) |
@@ -352,6 +353,7 @@
 | [0099-recover-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
@@ -363,6 +365,7 @@
 | [0098-validate-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
@@ -375,6 +378,7 @@
 | [0099-recover-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
