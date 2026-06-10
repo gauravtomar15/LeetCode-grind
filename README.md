@@ -212,6 +212,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0200-number-of-islands/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0785-is-graph-bipartite/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +297,7 @@
 | [0200-number-of-islands](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0322-coin-change) |
+| [0785-is-graph-bipartite](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0994-rotting-oranges/) | Medium |
 ## Simulation
@@ -374,6 +376,7 @@
 | [0200-number-of-islands](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,4 +397,8 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0099-recover-binary-search-tree/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
