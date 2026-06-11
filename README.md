@@ -224,6 +224,7 @@
 | [0022-generate-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0409-longest-palindrome) |
@@ -289,6 +290,7 @@
 | [0051-n-queens](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0257-binary-tree-paths/) | Easy |
 | [0401-binary-watch](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0401-binary-watch) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -367,6 +369,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -383,6 +386,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -400,6 +404,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0958-check-completeness-of-a-binary-tree) |
