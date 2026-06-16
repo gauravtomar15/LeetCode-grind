@@ -1,63 +1,49 @@
 class Solution {
 public:
-    int rowDir[4] = {-1, 1, 0, 0};
-    int colDir[4] = {0, 0, -1, 1};
-
-    bool isValidCell(int row, int col, int rows, int cols) {
-        return row >= 0 && row < rows && col >= 0 && col < cols;
+    int x[4] = {-1, 1, 0, 0};
+    int y[4] = {0, 0, -1, 1};
+    bool isValid(int n, int m, int nextRow, int nextCol) {
+        if (nextRow < 0 || nextCol < 0 || nextRow >= n || nextCol >= m) {
+            return false;
+        }
+        return true;
     }
-
     int orangesRotting(vector<vector<int>>& grid) {
-
-        int rows = grid.size();
-        int cols = grid[0].size();
-
+        int n = grid.size();
+        int m = grid[0].size();
         int freshCount = 0;
-        int minutes = 0;
-
-        queue<pair<int, int>> rottenQueue;
-
-        for (int row = 0; row < rows; row++) {
-            for (int col = 0; col < cols; col++) {
-
-                if (grid[row][col] == 2) {
-                    rottenQueue.push({row, col});
-                } else if (grid[row][col] == 1) {
+        int min = 0;
+        queue<pair<int, int>> q;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 2) {
+                    q.push({i, j});
+                } else if (grid[i][j] == 1) {
                     freshCount++;
                 }
             }
         }
-
-        while (!rottenQueue.empty() && freshCount > 0) {
-
-            int currentLevelSize = rottenQueue.size();
-            minutes++;
-
-            while (currentLevelSize--) {
-
-                auto currentCell = rottenQueue.front();
-                rottenQueue.pop();
-
+        while (!q.empty() && freshCount > 0) {
+            int levelSize = q.size();
+            min++;
+            while (levelSize--) {
+                pair<int, int> currentCell = q.front();
+                q.pop();
                 int currentRow = currentCell.first;
                 int currentCol = currentCell.second;
+                for (int k = 0; k < 4; k++) {
+                    int nextRow = currentRow + x[k];
+                    int nextCol = currentCol + y[k];
 
-                for (int dir = 0; dir < 4; dir++) {
-
-                    int nextRow = currentRow + rowDir[dir];
-                    int nextCol = currentCol + colDir[dir];
-
-                    if (isValidCell(nextRow, nextCol, rows, cols) &&
+                    if (isValid(n, m, nextRow, nextCol) &&
                         grid[nextRow][nextCol] == 1) {
-
                         grid[nextRow][nextCol] = 2;
                         freshCount--;
-
-                        rottenQueue.push({nextRow, nextCol});
+                        q.push({nextRow, nextCol});
                     }
                 }
             }
         }
-
-        return freshCount > 0 ? -1 : minutes;
+        return freshCount>0 ? -1 : min;
     }
 };
