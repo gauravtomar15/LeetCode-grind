@@ -3,38 +3,36 @@ public:
     int x[4] = {-1, 1, 0, 0};
     int y[4] = {0, 0, -1, 1};
     bool valid(int n, int m, int i, int j) {
-        if (i < 0 || i >= n || j < 0 || j >= m) {
+        if (i < 0 || j < 0 || i >= n || j >= m) {
             return false;
         }
         return true;
     }
     void dfs(vector<vector<char>>& grid, int n, int m, int i, int j,
              vector<vector<bool>>& vis) {
-        vis[i][j] = '1';
+        vis[i][j] = 1;
         for (int k = 0; k < 4; k++) {
             int row = i + x[k];
             int col = j + y[k];
-            if (valid(n, m, row, col) && vis[row][col] == false &&
-                grid[row][col] == '1') {
+            if (valid(n, m, row, col) && grid[row][col] == '1' &&
+                vis[row][col] == false) {
                 dfs(grid, n, m, row, col, vis);
             }
         }
-
         return;
     }
     int numIslands(vector<vector<char>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
         int i, j;
-        int res = 0;
+        int res=0;
         vector<vector<bool>> vis(n);
         for (int i = 0; i < n; i++) {
             vector<bool> t(m, false);
             vis[i] = t;
         }
-
-        for (i = 0; i < n; i++) {
-            for (j = 0; j < m; j++) {
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
                 if (grid[i][j] == '1' && vis[i][j] == 0) {
                     dfs(grid, n, m, i, j, vis);
                     res++;
