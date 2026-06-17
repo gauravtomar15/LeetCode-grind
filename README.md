@@ -206,6 +206,7 @@
 | [0152-maximum-product-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -314,6 +315,7 @@
 | [0322-coin-change](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/gauravtomar15/LeetCode-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -351,6 +353,7 @@
 | [0692-top-k-frequent-words](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/gauravtomar15/LeetCode-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -406,6 +409,7 @@
 | [0572-subtree-of-another-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0743-network-delay-time](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/gauravtomar15/LeetCode-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -436,6 +440,7 @@
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -448,4 +453,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
