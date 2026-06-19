@@ -20,6 +20,7 @@
 | [0051-n-queens](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -115,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0200-number-of-islands/) | Medium |
@@ -148,6 +150,7 @@
 | [0001-two-sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
