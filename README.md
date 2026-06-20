@@ -131,6 +131,7 @@
 | [0050-powx-n](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0509-fibonacci-number) |
@@ -205,6 +206,7 @@
 | [0022-generate-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0322-coin-change) |
@@ -374,6 +376,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0509-fibonacci-number) |
 ## Tree
 | Problem Name | Difficulty |
