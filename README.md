@@ -23,6 +23,7 @@
 | [0057-insert-interval](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0075-sort-colors/) | Medium |
 | [0090-subsets-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0118-pascals-triangle/) | Easy |
@@ -73,6 +74,7 @@
 | [0031-next-permutation](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0160-intersection-of-two-linked-lists) |
@@ -189,6 +191,7 @@
 | [0015-3sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
