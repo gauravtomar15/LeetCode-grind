@@ -18,6 +18,7 @@
 | [0042-trapping-rain-water](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -175,6 +176,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0190-reverse-bits) |
@@ -206,6 +208,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0118-pascals-triangle/) | Easy |
