@@ -17,6 +17,7 @@
 | [0040-combination-sum-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0056-merge-intervals) |
@@ -121,6 +122,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0130-surrounded-regions/) | Medium |
@@ -133,6 +135,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0067-add-binary) |
