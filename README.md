@@ -66,6 +66,7 @@
 | [1631-path-with-minimum-effort](https://github.com/gauravtomar15/LeetCode-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gauravtomar15/LeetCode-grind/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2043-simple-bank-system](https://github.com/gauravtomar15/LeetCode-grind/tree/main/2043-simple-bank-system/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/gauravtomar15/LeetCode-grind/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -180,6 +181,7 @@
 | [0692-top-k-frequent-words](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2043-simple-bank-system](https://github.com/gauravtomar15/LeetCode-grind/tree/main/2043-simple-bank-system/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -347,6 +349,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0067-add-binary) |
+| [2043-simple-bank-system](https://github.com/gauravtomar15/LeetCode-grind/tree/main/2043-simple-bank-system/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -485,4 +488,8 @@
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2043-simple-bank-system](https://github.com/gauravtomar15/LeetCode-grind/tree/main/2043-simple-bank-system/) | Medium |
 <!---LeetCode Topics End-->
