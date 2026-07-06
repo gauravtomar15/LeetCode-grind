@@ -12,31 +12,17 @@
  */
 class Solution {
 public:
+    void check(TreeNode* root, vector<int>& ans) {
+        if (root == NULL) {
+            return;
+        }
+        ans.push_back(root->val);
+        check(root->left, ans);
+        check(root->right, ans);
+    }
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
-        TreeNode* curr = root;
-        while (curr != NULL) {
-            if (curr->left == NULL) {
-                ans.push_back(curr->val);
-                curr = curr->right;
-            } else {
-                TreeNode* leftChild = curr->left;
-                while (leftChild->right != NULL && leftChild->right != curr) {
-                    leftChild = leftChild->right;
-                }
-                if (leftChild->right == NULL) {
-
-                    ans.push_back(curr->val); // preorder visit
-
-                    leftChild->right = curr; // thread create
-                    curr = curr->left;
-                } else {
-
-                    leftChild->right = NULL; // thread remove
-                    curr = curr->right;
-                }
-            }
-        }
+        check(root, ans);
         return ans;
     }
 };
