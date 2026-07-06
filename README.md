@@ -300,6 +300,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0503-next-greater-element-ii) |
@@ -417,6 +418,7 @@
 | [0110-balanced-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -436,6 +438,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0130-surrounded-regions](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
@@ -461,6 +464,7 @@
 | [0110-balanced-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
