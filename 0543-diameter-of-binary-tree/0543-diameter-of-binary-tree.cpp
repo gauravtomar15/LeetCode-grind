@@ -12,19 +12,22 @@
  */
 class Solution {
 public:
-    int res = 0;
-    int findMax(TreeNode* root) {
+    int solve(TreeNode* root, int& result) {
+        if(root==NULL){
+            return 0;
+        }
+        int left = solve(root->left, result);
+        int right = solve(root->right, result);
+
+        result = max(result, left + right);
+        return max(left, right) + 1;
+    }
+    int diameterOfBinaryTree(TreeNode* root) {
         if (root == NULL) {
             return 0;
         }
-        int left = findMax(root->left);
-        int right = findMax(root->right);
-        int sum = left + right;
-        res = max(res, sum);
-        return 1 + max(left, right);
-    }
-    int diameterOfBinaryTree(TreeNode* root) {
-        findMax(root);
-        return res;
+        int result = INT_MIN;
+        solve(root, result);
+        return result;
     }
 };
