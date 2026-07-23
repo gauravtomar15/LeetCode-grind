@@ -187,6 +187,7 @@
 | [0692-top-k-frequent-words](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/gauravtomar15/LeetCode-grind/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2043-simple-bank-system](https://github.com/gauravtomar15/LeetCode-grind/tree/main/2043-simple-bank-system/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -224,6 +225,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/gauravtomar15/LeetCode-grind/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +278,7 @@
 | [0696-count-binary-substrings](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/gauravtomar15/LeetCode-grind/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
