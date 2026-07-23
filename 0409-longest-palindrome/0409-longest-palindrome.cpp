@@ -6,8 +6,8 @@ public:
         for (int i = 0; i < n; i++) {
             mp[s[i]]++;
         }
+        int res = 0;
         bool odd = false;
-        int res =0;
         for (auto i : mp) {
             int val = i.second;
             if (val % 2 == 0) {
