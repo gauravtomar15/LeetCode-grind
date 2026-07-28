@@ -1,34 +1,34 @@
 class Solution {
 public:
-    int maxKadane(vector<int>& nums) {
+    int solveMaximum(vector<int>& nums) {
         int bestEnding = nums[0];
-        int res = nums[0];
+        int result = nums[0];
         for (int i = 1; i < nums.size(); i++) {
             bestEnding = max(bestEnding + nums[i], nums[i]);
-            res = max(res, bestEnding);
+            result = max(result, bestEnding);
         }
-        return res;
+        return result;
     }
-    int minKadane(vector<int>& nums) {
+    int solveMinimum(vector<int>& nums) {
         int bestEnding = nums[0];
-        int res = nums[0];
+        int result = nums[0];
         for (int i = 1; i < nums.size(); i++) {
             bestEnding = min(bestEnding + nums[i], nums[i]);
-            res = min(res, bestEnding);
+            result = min(result, bestEnding);
         }
-        return res;
+        return result;
     }
     int maxSubarraySumCircular(vector<int>& nums) {
-        int v1 = maxKadane(nums);
-        int v2 = minKadane(nums);
-        int sum = 0;
+        int maxi = solveMaximum(nums);
+        int minimum = solveMinimum(nums);
+        int total_sum = 0;
         for (int i = 0; i < nums.size(); i++) {
-            sum = sum + nums[i];
+            total_sum = total_sum + nums[i];
         }
-        if(v1<0){
-            return v1;
+        if (maxi < 0) {
+            return maxi;
         }
-        int result = max(sum - v2, v1);
-        return result;
+        int res = max(maxi, (total_sum - minimum));
+        return res;
     }
 };
