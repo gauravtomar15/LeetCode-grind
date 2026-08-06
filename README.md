@@ -554,4 +554,8 @@
 | [1683-invalid-tweets](https://github.com/gauravtomar15/LeetCode-grind/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/gauravtomar15/LeetCode-grind/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/gauravtomar15/LeetCode-grind/tree/main/1934-confirmation-rate/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
