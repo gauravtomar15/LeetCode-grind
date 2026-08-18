@@ -63,6 +63,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0986-interval-list-intersections) |
@@ -156,6 +157,7 @@
 | [0202-happy-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravtomar15/LeetCode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -208,6 +210,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +228,7 @@
 | [0455-assign-cookies](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 | Problem Name | Difficulty |
@@ -413,12 +417,14 @@
 | [0743-network-delay-time](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/gauravtomar15/LeetCode-grind/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -589,4 +595,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
