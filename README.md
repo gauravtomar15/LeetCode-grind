@@ -52,6 +52,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0485-max-consecutive-ones) |
+| [0502-ipo](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0540-single-element-in-a-sorted-array) |
@@ -229,6 +230,7 @@
 | [0347-top-k-frequent-elements](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0502-ipo/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
@@ -350,6 +352,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0409-longest-palindrome](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0502-ipo/) | Hard |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -418,6 +421,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0502-ipo/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0743-network-delay-time/) | Medium |
