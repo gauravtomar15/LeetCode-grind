@@ -601,6 +601,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0022-generate-parentheses/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
