@@ -12,13 +12,13 @@
 class Solution {
 public:
     TreeNode* func(TreeNode* root){
-        if(root==NULL) return root;
+        if(root==NULL) return {};
         swap(root->left , root->right);
         func(root->left);
         func(root->right);
         return root;
     }
     TreeNode* invertTree(TreeNode* root) {
-       return func(root);
+        return func(root);
     }
 };
