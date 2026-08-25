@@ -14,14 +14,14 @@ public:
         if (root == NULL) {
             return 0;
         }
-        int l = solve(root->left, p, q);
-        int r = solve(root->right, p, q);
-        int sum = 0;
+        int left = solve(root->left, p, q);
+        int right = solve(root->right, p, q);
+        int self = 0;
         if (root == p || root == q) {
-            sum = 1;
+            self = 1;
         }
-        int total = l + sum + r;
-        if (total >= 2 && ans == NULL) {
+        int total = left + self + right;
+        if (total == 2 && ans == NULL) {
             ans = root;
         }
         return total;
