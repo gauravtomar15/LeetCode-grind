@@ -101,6 +101,7 @@
 | [0287-find-the-duplicate-number](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0696-count-binary-substrings](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0876-middle-of-the-linked-list) |
@@ -197,6 +198,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -385,6 +387,7 @@
 | [0200-number-of-islands](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0322-coin-change) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0743-network-delay-time](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -477,6 +480,7 @@
 | [0257-binary-tree-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
@@ -501,6 +505,7 @@
 | [0257-binary-tree-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0743-network-delay-time](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -529,6 +534,7 @@
 | [0257-binary-tree-paths](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Search Tree
@@ -537,6 +543,7 @@
 | [0098-validate-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
