@@ -649,4 +649,8 @@
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
