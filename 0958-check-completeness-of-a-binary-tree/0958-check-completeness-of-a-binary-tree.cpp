@@ -6,37 +6,31 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    bool isNull = false;
-    bool check(TreeNode* root) {
-        if (root == NULL) {
-            return false;
+    bool isCompleteTree(TreeNode* root) {
+        if(root==NULL){
+            return true;
         }
+        bool nullFound = false;
         queue<TreeNode*> q;
         q.push(root);
-        while (!q.empty()) {
-            TreeNode* t = q.front();
+        while(!q.empty()){
+            TreeNode* t= q.front();
             q.pop();
-            if (t == NULL) {
-                isNull = true;
-            } else {
-                if (isNull) {
+            if(t==NULL){
+                nullFound = true;
+            }else{
+                if(nullFound){
                     return false;
                 }
                 q.push(t->left);
                 q.push(t->right);
             }
         }
-
         return true;
-    }
-    bool isCompleteTree(TreeNode* root) {
-        bool ans = check(root);
-        return ans;
     }
 };
