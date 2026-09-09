@@ -2,8 +2,8 @@ class Solution {
 public:
     int x[4] = {-1, 1, 0, 0};
     int y[4] = {0, 0, -1, 1};
-    bool isValid(int n, int m, int nextRow, int nextCol) {
-        if (nextRow < 0 || nextCol < 0 || nextRow >= n || nextCol >= m) {
+    bool isValid(int i, int j, int n, int m) {
+        if (i < 0 || j < 0 || i >= n || j >= m) {
             return false;
         }
         return true;
@@ -27,15 +27,14 @@ public:
             int levelSize = q.size();
             min++;
             while (levelSize--) {
-                pair<int, int> currentCell = q.front();
+                pair<int, int> topElement = q.front();
                 q.pop();
-                int currentRow = currentCell.first;
-                int currentCol = currentCell.second;
+                int row = topElement.first;
+                int col = topElement.second;
                 for (int k = 0; k < 4; k++) {
-                    int nextRow = currentRow + x[k];
-                    int nextCol = currentCol + y[k];
-
-                    if (isValid(n, m, nextRow, nextCol) &&
+                    int nextRow = row + x[k];
+                    int nextCol = col + y[k];
+                    if (isValid(nextRow, nextCol, n, m) &&
                         grid[nextRow][nextCol] == 1) {
                         grid[nextRow][nextCol] = 2;
                         freshCount--;
@@ -44,6 +43,6 @@ public:
                 }
             }
         }
-        return freshCount>0 ? -1 : min;
+        return freshCount > 0 ? -1 : min;
     }
 };
