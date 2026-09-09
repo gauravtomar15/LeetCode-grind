@@ -1,23 +1,22 @@
 class Solution {
-  public:
-    void dfsTraverse(vector<vector<int>>& adj , int node, vector<int>&res, vector<int> &visitedNode){
-        res.push_back(node);
-        visitedNode[node]=1;
-        for(int i =0 ; i<adj[node].size();i++){
-            int neigh = adj[node][i];
-            if(visitedNode[neigh]==0){
-                dfsTraverse(adj,neigh,res,visitedNode);
-            }
-        }
-        return ;
-    }
-    vector<int> dfs(vector<vector<int>>& adj) {
-        // Code here
-        int n = adj.size();
-        vector<int> res;
-        vector<int> visitedNode(n,0);
-        dfsTraverse(adj,0,res,visitedNode);
-        return res;
-        
-    }
+	public:
+	void dfs(vector<vector<int>> & adj, int node, vector<int>& res, vector<bool>& visited) {
+		res.push_back(node);
+		visited[node] = true;
+		for (int i = 0 ; i<adj[node].size() ; i++) {
+			int neigh = adj[node][i];
+			if (visited[neigh] == false) {
+				dfs(adj, neigh, res, visited);
+			}
+		}
+		return;
+	}
+	vector<int> dfs(vector<vector<int>> & adj) {
+		int n = adj.size();
+		vector<int> res;
+		vector<bool> visited(n, 0);
+		dfs(adj, 0, res, visited);
+		return res;
+		
+	}
 };
