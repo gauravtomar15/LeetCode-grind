@@ -2,7 +2,7 @@ class Solution {
 public:
     int x[4] = {-1, 1, 0, 0};
     int y[4] = {0, 0, -1, 1};
-    bool valid(int n, int m, int i, int j) {
+    bool valid(int i, int j, int n, int m) {
         if (i < 0 || j < 0 || i >= n || j >= m) {
             return false;
         }
@@ -14,21 +14,19 @@ public:
         for (int k = 0; k < 4; k++) {
             int row = i + x[k];
             int col = j + y[k];
-            if (valid(n, m, row, col) && grid[row][col] == '1' &&
-                vis[row][col] == false) {
+            if (valid(row, col, n, m) && vis[row][col] == false &&
+                grid[row][col] == '1') {
                 dfs(grid, n, m, row, col, vis);
             }
         }
-        return;
     }
     int numIslands(vector<vector<char>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-        int i, j;
-        int res=0;
+        int res = 0;
         vector<vector<bool>> vis(n);
         for (int i = 0; i < n; i++) {
-            vector<bool> t(m, false);
+            vector<bool> t(m, 0);
             vis[i] = t;
         }
         for (int i = 0; i < n; i++) {
