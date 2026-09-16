@@ -664,4 +664,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/gauravtomar15/LeetCode-grind/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
